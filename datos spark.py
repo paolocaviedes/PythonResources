@@ -1,0 +1,7 @@
+created ('2016-07-13T20:55:15.038Z')
+title (str)
+teamId (token)
+isLocked (Si es moderador o no , True o False)
+lastActivity ('2016-07-13T20:55:15.038Z')
+type (group o direct)
+id (token)

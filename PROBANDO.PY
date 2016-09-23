@@ -1,0 +1,6 @@
+from SparkModule import SendSparkMessage,SeeSparkTokens,listSparkMessages,SeeSparkRooms
+
+TokenBot="ZDBmNjBjYmMtYWE5NC00YmRiLWJjZTQtYmVhOGUxN2NlNTRiMTY5ZDg4OTQtY2Rj"
+TokenPaulo="Y2lzY29zcGFyazovL3VzL1JPT00vY2JlMjhlNjgtYzJlMS0zNjQ5LTgzYTQtYjNmZDAyM2VhOWE1"
+
+print SendSparkMessage(TokenBot,TokenPaulo,"HOLA")
